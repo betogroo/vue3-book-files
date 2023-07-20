@@ -1,0 +1,1 @@
+npm i -D prettier eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-plugin-prettier eslint-plugin-vuetify vue-eslint-parser @vue/eslint-config-typescript
